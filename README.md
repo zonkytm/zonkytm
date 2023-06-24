@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zonkytm
-- 👀 I’m interested in software engeneering
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juphy@yandex.ru
 
 <!---
