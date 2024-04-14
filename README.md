@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zonkytm
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c# (ASP.NET)
 - 📫 How to reach me juphy@yandex.ru
 
 <!---
